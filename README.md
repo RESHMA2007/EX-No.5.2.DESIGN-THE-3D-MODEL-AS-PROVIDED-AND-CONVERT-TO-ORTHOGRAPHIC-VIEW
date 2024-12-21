@@ -1,5 +1,8 @@
+Developed by:Reshma R
+
+Reg no:212224040274
+
 # EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE:
 
 ## AIM: 
 To create orthographic view of given 3D model
